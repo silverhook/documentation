@@ -34,7 +34,7 @@ This way, the bus factor of the project has greatly improved and we can look int
 [talha131]: http://oncrashreboot.com
 [iranzo]: https://iranzo.github.io/
 [silverhook]: https://matija.suklje.name
-[future]: https://github.com/talha131/pelican-elegant/issues/173
+[future]: https://github.com/Pelican-Elegant/elegant/issues/173
 
 
 # New governance model
